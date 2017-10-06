@@ -10,6 +10,10 @@
       {
         "title": "Running a Web server",
         "text": "step-02.md"
+      },
+      {
+        "title": "Building a custom Web server image",
+        "text": "step-03.md"
       }
     ],
     "intro": {
@@ -22,8 +26,12 @@
     "showdashboard": true,
     "dashboards": [
       {
-        "name": "Access port 9191",
+        "name": "Port 9191",
         "port": 9191
+      },
+      {
+        "name": "Port 9292",
+        "port": 9292
       }
     ]
   },

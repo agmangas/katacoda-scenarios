@@ -31,6 +31,6 @@ Let's get some new static content to host in our web server by running the follo
 
 `wget -O image.png http://lorempixel.com/300/200/animals/`{{execute}}
 
-We've downloaded a new image named `image.png` to our web server root directory. We can view that image by going to:
+We've downloaded a new image named *image.png* to our web server root directory. We can view that image by going to:
 
 `http://<hostname>:9191/image.png`
