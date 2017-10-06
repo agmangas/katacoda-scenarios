@@ -1,5 +1,5 @@
 # Objectives
 
-* Put basic Docker concepts intro practice.
-* Simple Docker containers management.
+* Put Docker concepts intro practice.
+* Learn basic commands to manage Docker containers.
 * Build customized images using a *Dockerfile*.
