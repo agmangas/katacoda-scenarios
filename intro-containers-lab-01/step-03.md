@@ -15,6 +15,10 @@ WORKDIR /usr/share/nginx/html/
 RUN wget -O image.png http://lorempixel.com/300/200/animals/
 ```
 
+This Dockerfile may be downloaded from here:
+
+`wget -O Dockerfile https://raw.githubusercontent.com/agmangas/katacoda-scenarios/master/intro-containers-lab-01/Dockerfile`{{execute}}
+
 # Build an image
 
 Let's build a custom image named *custom-nginx* using the `docker build` command:
