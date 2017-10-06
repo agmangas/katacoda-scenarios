@@ -6,6 +6,10 @@
       {
         "title": "Hello World!",
         "text": "step-01.md"
+      },
+      {
+        "title": "Running a Web server",
+        "text": "step-02.md"
       }
     ],
     "intro": {
@@ -14,7 +18,14 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "showdashboard": true,
+    "dashboards": [
+      {
+        "name": "Access port 9191",
+        "port": 9191
+      }
+    ]
   },
   "backend": {
     "imageid": "docker"
