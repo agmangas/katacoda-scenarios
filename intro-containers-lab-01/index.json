@@ -1,0 +1,25 @@
+{
+  "title": "Introduction to Containers: Lab 01",
+  "description": "Lab 01 of the Introduction to Containers course",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 01",
+        "text": "step-01.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "courseData": "env-init.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "docker"
+  }
+}
