@@ -17,7 +17,7 @@ RUN wget -O image.png http://lorempixel.com/300/200/animals/
 
 This Dockerfile may be downloaded from here:
 
-`wget -O Dockerfile https://raw.githubusercontent.com/agmangas/katacoda-scenarios/master/intro-containers-lab-01/Dockerfile`{{execute}}
+`curl -O https://raw.githubusercontent.com/agmangas/katacoda-scenarios/master/intro-containers-lab-01/Dockerfile`{{execute}}
 
 # Build an image
 
