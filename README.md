@@ -1,2 +1,3 @@
-# katacoda-scenarios
-Repo for Katacoda interactive scenarios
+# Katacoda Scenarios
+
+Repo for Katacoda interactive scenarios.
